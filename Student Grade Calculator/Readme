@@ -1,0 +1,57 @@
+# Student Grade Calculator README
+
+This README provides instructions on how to run the Student Grade Calculator application, which calculates grades based on student scores. The main file to run is `Gradecal.java`, located at `Student Grade Calculator/src/Gradecal.java`. We recommend using Integrated Development Environments (IDEs) such as Eclipse or NetBeans for a smoother experience.
+
+## Prerequisites
+
+Before you begin, make sure you have the following prerequisites:
+
+- Java Development Kit (JDK) installed on your computer.
+- An Integrated Development Environment (IDE) such as Eclipse or NetBeans installed.
+
+## Steps to Run the Student Grade Calculator
+
+Follow these steps to run the Student Grade Calculator using an IDE like Eclipse or NetBeans:
+
+### Using Eclipse:
+
+1. **Download the Source Code**: If you haven't already, download the source code for the Student Grade Calculator application from the project repository or source provided.
+
+2. **Open Eclipse**: Launch Eclipse IDE.
+
+3. **Import the Project**: In Eclipse, go to `File > Import...`. In the import wizard, select `General > Existing Projects into Workspace` and click `Next`.
+
+4. **Select the Project**: Click on `Select root directory` and browse to the directory where you downloaded the source code. Select the project folder containing `Gradecal.java`. Click `Finish`.
+
+5. **Build the Project**: Eclipse will automatically build the project. Ensure there are no compilation errors.
+
+6. **Run the Application**: Right-click on `Gradecal.java` in the Project Explorer, and select `Run As > Java Application`. The application should now start, and you can interact with it through the IDE.
+
+7. **Follow On-screen Instructions**: Depending on the Grade Calculator's design, follow the on-screen instructions to use the application. You can input student scores and calculate grades.
+
+8. **Review the Code**: For a deeper understanding of how the Grade Calculator works, feel free to review the source code in `Gradecal.java` and any other relevant files in the project.
+
+### Using NetBeans:
+
+1. **Download the Source Code**: If you haven't already, download the source code for the Student Grade Calculator application from the project repository or source provided.
+
+2. **Open NetBeans**: Launch NetBeans IDE.
+
+3. **Import the Project**: In NetBeans, go to `File > Open Project...`. Navigate to the directory where you downloaded the source code and select the project folder containing `Gradecal.java`.
+
+4. **Build the Project**: NetBeans will automatically build the project. Ensure there are no compilation errors.
+
+5. **Run the Application**: Right-click on `Gradecal.java` in the Project Explorer, and select `Run File`. The application should now start, and you can interact with it through the IDE.
+
+6. **Follow On-screen Instructions**: Depending on the Grade Calculator's design, follow the on-screen instructions to use the application. You can input student scores and calculate grades.
+
+7. **Review the Code**: For a deeper understanding of how the Grade Calculator works, feel free to review the source code in `Gradecal.java` and any other relevant files in the project.
+
+## Troubleshooting
+
+- If you encounter any issues during compilation or execution, ensure that you have followed the steps correctly and that your IDE and JDK are up-to-date.
+- Check for any error messages or exceptions provided in the IDE's console for debugging purposes.
+
+Enjoy using the Student Grade Calculator!
+
+**Note:** This README assumes that the Student Grade Calculator application is designed to be run using an IDE. If there are specific instructions for running it from the command line or if additional dependencies are required, please refer to the project documentation or contact the project maintainer for guidance.
