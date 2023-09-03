@@ -1,0 +1,55 @@
+# Student Course Registration README
+
+This README provides instructions on how to run the Student Course Registration System, an application designed to manage student course registrations. The main file to run is `Registrationsystem.java`, located at `Student Course Registration/src/Registrationsystem.java`.
+
+## Steps to Run the Student Course Registration System
+
+Follow these steps to run the Student Course Registration System:
+
+1. **Download the Source Code**: If you haven't already, download the source code for the Student Course Registration System from the project repository or source provided.
+
+2. **Install Java**: Ensure you have Java installed on your system. You can check if Java is installed by opening a terminal/command prompt and running the following command:
+   ```
+   java -version
+   ```
+
+   If Java is not installed, download and install the latest version of Java from the official Oracle website (https://www.oracle.com/java/technologies/javase-downloads.html) or adopt an open-source version like OpenJDK.
+
+3. **Compile the Code**: Open a terminal/command prompt and navigate to the directory where you downloaded the source code, specifically to the folder containing `Registrationsystem.java`. To compile the code, use the `javac` command followed by the path to `Registrationsystem.java`:
+   ```
+   javac "Student Course Registration/src/Registrationsystem.java"
+   ```
+
+   This command will compile the Java source code into bytecode.
+
+4. **Run the Application**: After successful compilation, you can run the Student Course Registration System using the `java` command followed by the class name (without the `.java` extension):
+   ```
+   java "Student Course Registration/src/Registrationsystem"
+   ```
+
+   The application should now start, and you can interact with it through the command line or graphical user interface, depending on its implementation.
+
+5. **Follow On-screen Instructions**: Depending on the Student Course Registration System's design, follow the on-screen instructions to use the application. This may involve registering students for courses, managing course enrollments, or performing other related tasks.
+
+6. **Exit the Application**: To exit the application, typically, you can enter a specific command or close the application window, depending on its design.
+
+7. **Review the Code**: For a deeper understanding of how the Student Course Registration System works, feel free to review the source code in `Registrationsystem.java` and any other relevant files in the project.
+
+## System Requirements
+
+- Java Development Kit (JDK) installed.
+- A compatible operating system (Windows, macOS, Linux).
+
+## Troubleshooting
+
+- If you encounter any issues during compilation or execution, ensure that you have followed the steps correctly and that your Java installation is up-to-date.
+- Check for any error messages or exceptions provided in the terminal/command prompt for debugging purposes.
+- Consult the project documentation or contact the project maintainer for further assistance if needed.
+
+Enjoy using the Student Course Registration System!
+
+**Note:** This README assumes that the Student Course Registration System is a command-line application. If it has a different user interface or requires additional dependencies, please refer to the specific instructions provided with the project.
+
+
+
+For error less compiling download the folder and open in applications such as visual Studio Code , Eclipse , Net Beans..
